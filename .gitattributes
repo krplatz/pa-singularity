@@ -3,3 +3,11 @@
 *.json text eol=lf
 *.pfx text eol=lf
 *.md text eol=lf
+
+# Retain editable sources in Git, omit them from install archives.
+pa/units/land/titan_structure/titan_structure_diffuse.png export-ignore
+pa/units/land/titan_structure/titan_structure_mask.png export-ignore
+pa/units/land/titan_structure/titan_structure_material.png export-ignore
+maintenance/ export-ignore
+tools/ export-ignore
+.gitattributes export-ignore

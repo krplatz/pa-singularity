@@ -1,0 +1,95 @@
+{
+  "build": "124680",
+  "files": [
+    {
+      "mod_path": "pa/anim/anim_trees/titan_structure_anim_tree.json",
+      "stock_path": "pa_ex1/anim/anim_trees/titan_structure_anim_tree.json",
+      "sha256": "3fad78aa2fc835b39197727b832e3c4d6ca729e0a0b81cdfb78102b9b8fb9cdf"
+    },
+    {
+      "mod_path": "pa/units/land/titan_structure/titan_structure.json",
+      "stock_path": "pa_ex1/units/land/titan_structure/titan_structure.json",
+      "sha256": "3f31413ab65da8d3d934e078e0779c2f83cd6ad358385e65b0986116654c5b21"
+    },
+    {
+      "mod_path": "pa/units/land/titan_structure/titan_structure.papa",
+      "stock_path": "pa_ex1/units/land/titan_structure/titan_structure.papa",
+      "sha256": "52124c57a1c19633aa64434fb019b833f7e5d1d2b001546e7f93d2de253a3798"
+    },
+    {
+      "mod_path": "pa/units/land/titan_structure/titan_structure_anim_dead.papa",
+      "stock_path": "pa_ex1/units/land/titan_structure/titan_structure_anim_dead.papa",
+      "sha256": "133cb3e68dc96901c44ecf861b3f821c137e72e25881ecbc25e9f26ac622db1c"
+    },
+    {
+      "mod_path": "pa/units/land/titan_structure/titan_structure_anim_death.papa",
+      "stock_path": "pa_ex1/units/land/titan_structure/titan_structure_anim_death.papa",
+      "sha256": "f07dc783fdf71b2076b1819e8ace5e8ea3d0a051b3a1f2367b941a7ce1e73edc"
+    },
+    {
+      "mod_path": "pa/units/land/titan_structure/titan_structure_anim_end.papa",
+      "stock_path": "pa_ex1/units/land/titan_structure/titan_structure_anim_end.papa",
+      "sha256": "ba8f7ce8b3f38d8438080250919e44f72aab746b64da586378cbeaa6e141e21f"
+    },
+    {
+      "mod_path": "pa/units/land/titan_structure/titan_structure_anim_loop.papa",
+      "stock_path": "pa_ex1/units/land/titan_structure/titan_structure_anim_loop.papa",
+      "sha256": "ecebadabae36afd4336eb789277d6aa1351dab827182e81ec5f6d08eaa654e83"
+    },
+    {
+      "mod_path": "pa/units/land/titan_structure/titan_structure_anim_start.papa",
+      "stock_path": "pa_ex1/units/land/titan_structure/titan_structure_anim_start.papa",
+      "sha256": "cc0baa704df76b194018124ff150ba3b2cabf41a1d2b2b53baf4513ce46470ea"
+    },
+    {
+      "mod_path": "pa/units/land/titan_structure/titan_structure_death.pfx",
+      "stock_path": "pa_ex1/units/land/titan_structure/titan_structure_death.pfx",
+      "sha256": "27fdcaa03a7889b393558efa822c37507c2d6d766dfe157f19b9458e8947a724"
+    },
+    {
+      "mod_path": "pa/units/land/titan_structure/titan_structure_diffuse.papa",
+      "stock_path": "pa_ex1/units/land/titan_structure/titan_structure_diffuse.papa",
+      "sha256": "9672ca4c67ab60f8c2b1ce733ef2135be498f1eb216e8725385688aa1891d4d0"
+    },
+    {
+      "mod_path": "pa/units/land/titan_structure/titan_structure_enabled_bomb_drop.pfx",
+      "stock_path": "pa_ex1/units/land/titan_structure/titan_structure_enabled_bomb_drop.pfx",
+      "sha256": "93dc244e7e9fc408e1633f6eb231ff6c4669e32494da043d4eec7d1916984edc"
+    },
+    {
+      "mod_path": "pa/units/land/titan_structure/titan_structure_enabled_end.pfx",
+      "stock_path": "pa_ex1/units/land/titan_structure/titan_structure_enabled_end.pfx",
+      "sha256": "215f0f080d17558f0f53bf2af2a26f30cf774be7770355b9d3ee5c3f8297785f"
+    },
+    {
+      "mod_path": "pa/units/land/titan_structure/titan_structure_enabled_fork.pfx",
+      "stock_path": "pa_ex1/units/land/titan_structure/titan_structure_enabled_fork.pfx",
+      "sha256": "62eea05e554e39e205bbe00ced7c46d97234506ff57638fd52a35fcb3beda14a"
+    },
+    {
+      "mod_path": "pa/units/land/titan_structure/titan_structure_enabled_loop.pfx",
+      "stock_path": "pa_ex1/units/land/titan_structure/titan_structure_enabled_loop.pfx",
+      "sha256": "73ebb168fa3e855dde6eba54ebe3d62240514327db1b8522fcacfc90e84539f7"
+    },
+    {
+      "mod_path": "pa/units/land/titan_structure/titan_structure_enabled_start.pfx",
+      "stock_path": "pa_ex1/units/land/titan_structure/titan_structure_enabled_start.pfx",
+      "sha256": "f721b063f1e473d14069408819fb098ac1ffa73d927f642abeb9f651a6e4b20b"
+    },
+    {
+      "mod_path": "pa/units/land/titan_structure/titan_structure_icon_buildbar.png",
+      "stock_path": "pa_ex1/units/land/titan_structure/titan_structure_icon_buildbar.png",
+      "sha256": "c10835ef552cd9c86560a72ad4494f1a51161ab44ea63588ae1a093f4f59518a"
+    },
+    {
+      "mod_path": "pa/units/land/titan_structure/titan_structure_mask.papa",
+      "stock_path": "pa_ex1/units/land/titan_structure/titan_structure_mask.papa",
+      "sha256": "805fce0479ab0eb9cdd0079e4360f56b0ff5ad71d3bd1997f3d64e05006744cd"
+    },
+    {
+      "mod_path": "pa/units/land/titan_structure/titan_structure_material.papa",
+      "stock_path": "pa_ex1/units/land/titan_structure/titan_structure_material.papa",
+      "sha256": "8616cdef37dc008e3158bd12bd20e7f4ae45f6186c7094cd669a2f1fce6e9833"
+    }
+  ]
+}
