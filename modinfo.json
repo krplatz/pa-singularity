@@ -4,12 +4,13 @@
   "display_name": "Singularity",
   "description": "Replaces Ragnarok's appearance with Singularity, a massive black hole generator with rotating containment rings and dramatic effects. Keeps the original gameplay, balance, and audio.",
   "author": "krplatz",
-  "version": "0.9.6",
+  "version": "0.9.7",
   "build": "124680",
   "priority": 100,
   "category": [
     "units",
-    "effects"
+    "effects",
+    "titans"
   ],
   "icon": "https://raw.githubusercontent.com/krplatz/pa-singularity/main/ui/mods/com.pa.endgame.ragnarok-singularity/icon.png",
   "date": "2026-09-27",
