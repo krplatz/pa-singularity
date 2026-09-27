@@ -2,7 +2,7 @@
 
 Replaces Ragnarok's appearance with Singularity, a massive black hole generator with rotating containment rings and dramatic effects. Keeps the original gameplay, balance, and audio.
 
-For **Planetary Annihilation: TITANS**, by **krplatz**. Version 0.9.2 — beta.
+For **Planetary Annihilation: TITANS**, by **krplatz**. Version 0.9.3 — beta.
 
 ![Singularity](ui/mods/com.pa.endgame.ragnarok-singularity/icon.png)
 
@@ -16,6 +16,10 @@ For **Planetary Annihilation: TITANS**, by **krplatz**. Version 0.9.2 — beta.
 
 This replaces the existing Ragnarok visually; it does not add a separate buildable unit. The stock charge is 176 seconds, not the shortened comparison-video timing. Other players need this client mod to see its visuals.
 
+## 0.9.3 texture correction
+
+Fixes an unintended second vertical UV flip during model conversion. In 0.9.2, metal surfaces sampled unused black atlas tiles and some surfaces sampled the orange reactor tile. Only texture coordinates changed; geometry, animation and gameplay are unchanged. All vertices now sample populated atlas tiles. The corrected appearance still requires an in-game check after a full restart.
+
 ## Status
 
 The initial mesh and motion have been viewed in-game. The updated texture packaging, accretion effect and UI name/icon still need broader in-game verification. One test installation loses its local filesystem-mod registration when leaving Community Mods. Publication through the managed download route is being evaluated; it is not a confirmed fix.
@@ -24,7 +28,7 @@ All 14 PAPA assets pass the game's format reader and asset references resolve. T
 
 ## Installation
 
-Community Mods listing is pending submission and review. This GitHub upload alone does not make the mod available in the in-game catalogue.
+Submitted to Community Mods for review. Catalogue availability and update timing depend on the Community Mods service.
 
 For manual testing, download this repository and place its contents in a folder named `com.pa.endgame.ragnarok-singularity` under your PA data directory's `client_mods` folder. `modinfo.json` must be directly inside that folder. Enable **Singularity** in Community Mods and fully restart the game to clear cached art. Disable conflicting Ragnarok appearance mods. The strategic-map symbol remains stock.
 
