@@ -2,7 +2,7 @@
 
 Replaces Ragnarok's appearance with Singularity, a massive black hole generator with rotating containment rings and dramatic effects. Keeps the original gameplay, balance, and audio.
 
-For **Planetary Annihilation: TITANS**, by **krplatz**. Version 0.9.4 — beta.
+For **Planetary Annihilation: TITANS**, by **krplatz**. Version 0.9.5 — beta.
 
 ![Singularity](ui/mods/com.pa.endgame.ragnarok-singularity/icon.png)
 
@@ -15,6 +15,10 @@ For **Planetary Annihilation: TITANS**, by **krplatz**. Version 0.9.4 — beta.
 - Stock costs, health, weapon, charge duration, planet destruction and audio cues. No audio files are bundled.
 
 This replaces the existing Ragnarok visually; it does not add a separate buildable unit. The stock charge is 176 seconds, not the shortened comparison-video timing. Other players need this client mod to see its visuals.
+
+## 0.9.5 construction wireframe
+
+Bakes the construction distance mask into diffuse alpha, replacing the constant alpha that made the early build look like a filled hologram. Repackages 9,016 planar surface islands into a dedicated atlas, resampling existing colours and material masks. Mesh positions, normals, skinning, indices, effects and animations remain unchanged. Asset validation passes; wire thickness and appearance still need in-game confirmation on a newly constructed unit.
 
 ## 0.9.4 effect pass
 
