@@ -1,0 +1,5 @@
+*.papa binary
+*.png binary
+*.json text eol=lf
+*.pfx text eol=lf
+*.md text eol=lf
